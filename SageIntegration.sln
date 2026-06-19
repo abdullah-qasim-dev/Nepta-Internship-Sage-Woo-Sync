@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SageIntegration", "SageIntegration.csproj", "{843693E0-C020-427A-B0F9-64B3A149578D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843693E0-C020-427A-B0F9-64B3A149578D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843693E0-C020-427A-B0F9-64B3A149578D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843693E0-C020-427A-B0F9-64B3A149578D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843693E0-C020-427A-B0F9-64B3A149578D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65A5402-08A3-4AA8-ADF6-C23781AA324E}
+	EndGlobalSection
+EndGlobal
